@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.5",
+    "fetch": "^1.1.0",
+    "imgur-search": "^1.0.1",
+    "node-telegram-bot-api": "^0.28.0",
+    "pornhub": "0.0.5",
+    "pornhub-api": "0.0.1",
+    "tumblr.js": "^1.1.1",
+    "wikijs": "^4.2.1",
+    "xml2json": "^0.11.0"
+  }
+}
